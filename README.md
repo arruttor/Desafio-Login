@@ -1,6 +1,7 @@
 # desafio_login
 
-A new Flutter project.
+Pimreio Projeto Flutter Feito na faculdade
+Orientado pelo professor Montanha (https://github.com/alexmontanha)
 
 ## Getting Started
 
